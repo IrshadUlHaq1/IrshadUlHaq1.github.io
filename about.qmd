@@ -1,9 +1,11 @@
 ---
 title: "About"
+subtitle: "A little about my passion for science and my hobbies and interests"
+title-block-banner: true
 ---
 
-About this site
+## What I do as a postdoc
+I am a postdoctoral associate at the the University of Minnesota, Twin Cities. My research integrates microbial ecology, molecular and computational biology, experimental evolution, and field studies to understand the roles of bacteria and fungi in biogeochemical processes in forest and soil ecosystems.
 
-```{r}
-1 + 1
-```
+
+## What are my hobbies
