@@ -1,4 +1,17 @@
 ---
-title: "Research"
-editor: visual
+title: "Research interests"
+subtitle: "My research interests lie at the intersection of microbial ecology and computational biology"
+title-block-banner: true
 ---
+
+### Structure and function of microbial communities in decaying wood and soil
+
+Microbes play an essential role in wood decomposition and regulate biogeochemical processes. and maintain the functioning of soil and forest ecosystems
+
+### Fungal wood decay mechanisms in boreal forests
+
+The large carbon stores in boreal forests, primarily in deadwood, are significantly influenced by fungal decomposition mechanisms (white versus brown rot).
+
+### Bacterial-fungal interactions in decaying wood and soil
+
+The presence of a wide array of bacteria and fungi in soil and decaying wood can have important effects on biogeochemical processes, including bioremediation, in both natural and managed systems.

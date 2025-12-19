@@ -5,20 +5,47 @@ project:
 website:
   title: "Irshad Ul Haq"
   navbar:
-    left:
+    title: false
+    right: 
       - href: index.qmd
         text: Home
       - about.qmd
-      - Research.qmd
+      - href: Research.qmd
+        text: Research
+      - href: /CV/CV_Irshad Ul Haq.pdf
+        text: CV
+        target: _blank # opens link (or page) in a new browser tab
+      - icon: github
+        href: https://github.com/IrshadUlHaq1
+        target: _blank
+      - icon: twitter-x
+        href: https://x.com/Irshad_Yusafzai
+        target: _blank
+      - text: Contact
+        menu:
+        - icon: linkedin
+          href: https://www.linkedin.com/in/irshad-ul-haq-ph-d-ab8335139/
+          target: _blank
+        - icon: envelope
+          text: Email
+          href: mailto:irshadulhaq85@gmail.com
+          target: _blank
+     
+        
+  page-footer:
+    background: light # or `dark` or omit this option altogether (footer color will match page body color)
+    left: Copyright 2025, Irshad Ul Haq
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/IrshadUlHaq1/IrshadUlHaq1.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
 
 format:
   html:
-    theme:
-      - minty
-      - brand
-      - solar
-    css: styles.css
-    toc: true
     page-layout: full
+    sidebar: false
+    theme: 
+      - styles.scss
+    mainfont: Nunito
+    toc: true
+
 
 
