@@ -1,11 +1,18 @@
 ---
-title: "IrshadUlHaq1.github.io"
+title: "Irshad Ul Haq, PhD"
+image: media/profile.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/irshad-ul-haq-ph-d-ab8335139/
+    - text: GitHub
+      href: https://github.com/IrshadUlHaq1
+    - text: Email
+      href: mailto:irshadulhaq85@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a postdoctoral associate at the the University of Minnesota, Twin Cities. My research integrates microbial ecology, molecular and computational biology, experimental evolution, and field studies to understand the roles of bacteria and fungi in biogeochemical processes in forest and soil ecosystems.

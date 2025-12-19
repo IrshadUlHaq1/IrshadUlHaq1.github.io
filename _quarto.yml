@@ -3,20 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "IrshadUlHaq1.github.io"
+  title: "Irshad Ul Haq"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Research.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - minty
       - brand
+      - solar
     css: styles.css
     toc: true
-
+    page-layout: full
 
 
