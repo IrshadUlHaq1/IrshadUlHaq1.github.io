@@ -4,7 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a postdoctoral associate at the the University of Minnesota, Twin Cities. My research integrates microbial ecology, molecular and computational biology, experimental evolution, and field studies to understand the roles of bacteria and fungi in biogeochemical processes in forest and soil ecosystems."
+  },
+  {
+    "objectID": "about.html#what-i-do-as-a-postdoc",
+    "href": "about.html#what-i-do-as-a-postdoc",
+    "title": "About",
+    "section": "",
+    "text": "I am a postdoctoral associate at the the University of Minnesota, Twin Cities. My research integrates microbial ecology, molecular and computational biology, experimental evolution, and field studies to understand the roles of bacteria and fungi in biogeochemical processes in forest and soil ecosystems."
+  },
+  {
+    "objectID": "about.html#what-are-my-hobbies",
+    "href": "about.html#what-are-my-hobbies",
+    "title": "About",
+    "section": "What are my hobbies",
+    "text": "What are my hobbies"
   },
   {
     "objectID": "index.html",
@@ -12,5 +26,12 @@
     "title": "Irshad Ul Haq, PhD",
     "section": "",
     "text": "I am a postdoctoral associate at the the University of Minnesota, Twin Cities. My research integrates microbial ecology, molecular and computational biology, experimental evolution, and field studies to understand the roles of bacteria and fungi in biogeochemical processes in forest and soil ecosystems."
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research interests",
+    "section": "",
+    "text": "Structure and function of microbial communities in decaying wood and soil\nMicrobes play an essential role in wood decomposition and regulate biogeochemical processes. and maintain the functioning of soil and forest ecosystems\n\n\nFungal wood decay mechanisms in boreal forests\nThe large carbon stores in boreal forests, primarily in deadwood, are significantly influenced by fungal decomposition mechanisms (white versus brown rot).\n\n\nBacterial-fungal interactions in decaying wood and soil\nThe presence of a wide array of bacteria and fungi in soil and decaying wood can have important effects on biogeochemical processes, including bioremediation, in both natural and managed systems."
   }
 ]
