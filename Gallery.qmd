@@ -6,9 +6,23 @@ lightbox: true
 ---
 
 ::: {layout-ncol="3"}
-![](media/f1.jpg){.lightbox group="fungi"}
+![](media/1.jpg){.lightbox group="fungi"}
 
-![](media/fungus2.jpg){.lightbox group="fungi"}
+![](media/2.jpg){.lightbox group="fungi"}
 
-![](media/IMG-5300.jpg){.lightbox group="fungi"}
+![](media/3.jpg){.lightbox group="fungi"}
+
+![](media/4.jpg){.lightbox group="fungi"}
+
+
+
+![](media/5.jpg){.lightbox group="fungi"}
+
+
+
+![](media/6.jpg){.lightbox group="fungi"}
+
+
+
+![](media/7.jpg){.lightbox group="fungi"}
 :::
