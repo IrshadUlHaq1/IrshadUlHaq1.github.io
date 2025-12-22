@@ -1,0 +1,14 @@
+---
+title: "Some cool stuff in the nature and the lab"
+title-block-banner: true
+page-layout: full
+lightbox: true
+---
+
+::: {layout-ncol="3"}
+![](media/f1.jpg){.lightbox group="fungi"}
+
+![](media/fungus2.jpg){.lightbox group="fungi"}
+
+![](media/IMG-5300.jpg){.lightbox group="fungi"}
+:::
