@@ -5,18 +5,28 @@ page-layout: full
 lightbox: true
 ---
 
-::: {layout-ncol="3"}
+::: {layout-ncol="4"}
 ![](media/1.jpg){.lightbox group="fungi"}
 ![](media/2.jpg){.lightbox group="fungi"}
+
 ![](media/3.jpg){.lightbox group="fungi"}
+
 ![](media/4.jpg){.lightbox group="fungi"}
+
 ![](media/5.jpg){.lightbox group="fungi"}
+
 ![](media/6.jpg){.lightbox group="fungi"}
+
 ![](media/7.jpg){.lightbox group="fungi"}
+
 ![](media/8.jpg){.lightbox group="fungi"}
+
 ![](media/9.jpg){.lightbox group="fungi"}
+
 ![](media/10.jpg){.lightbox group="fungi"}
+
 ![](media/11.jpg){.lightbox group="fungi"}
+
 ![](media/12.jpg){.lightbox group="fungi"}
 
 :::
