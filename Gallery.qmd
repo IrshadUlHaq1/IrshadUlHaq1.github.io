@@ -25,4 +25,11 @@ lightbox: true
 
 
 ![](media/7.jpg){.lightbox group="fungi"}
+![](media/8.jpg){.lightbox group="fungi"}
+![](media/9.jpg){.lightbox group="fungi"}
+![](media/10.jpg){.lightbox group="fungi"}
+![](media/11.jpg){.lightbox group="fungi"}
+![](media/12.jpg){.lightbox group="fungi"}
+![](media/.jpg){.lightbox group="fungi"}
+
 :::
