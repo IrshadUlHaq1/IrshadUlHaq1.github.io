@@ -1,6 +1,6 @@
 ---
 title: "Irshad Ul Haq, PhD"
-image: media/irshad-ul-haq-final-03_54049815076_o.jpg
+image: media/irshad-ul-haq-final-22_54048952717_o.jpg
 toc: false
 about: 
   template: jolla
