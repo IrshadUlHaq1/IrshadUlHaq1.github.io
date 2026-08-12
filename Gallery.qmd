@@ -7,6 +7,7 @@ lightbox: true
 
 ::: {layout-ncol="3"}
 ![](media/1.jpg){.lightbox group="fungi"}
+
 ![](media/2.jpg){.lightbox group="fungi"}
 
 ![](media/3.jpg){.lightbox group="fungi"}
