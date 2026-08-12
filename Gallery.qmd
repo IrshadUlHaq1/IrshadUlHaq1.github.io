@@ -11,8 +11,6 @@ lightbox: true
 
 ![](media/3.jpg){.lightbox group="fungi"}
 
-![](media/4.jpg){.lightbox group="fungi"}
-
 ![](media/5.jpg){.lightbox group="fungi"}
 
 ![](media/6.jpg){.lightbox group="fungi"}
