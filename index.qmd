@@ -1,10 +1,10 @@
 ---
 title: "Irshad Ul Haq, PhD"
-image: media/irshad-ul-haq-final-22_54048952717_o.jpg
+image: media/cbspostdocportraits-126.jpg
 toc: false
 about: 
   template: jolla
-  image-shape: round
+  image-shape: rectangle
   image-width: 17em
   links:
     - icon: linkedin
@@ -21,4 +21,4 @@ about:
       target: _blank
 ---
 
-I am a postdoctoral associate at the the University of Minnesota, Twin Cities. My research integrates microbial ecology, molecular and computational biology, experimental evolution, and field studies to understand the roles of bacteria and fungi in biogeochemical processes in forest and soil ecosystems.
+My name is Irshad Ul Haq and I am a postdoctoral associate at the the University of Minnesota, Twin Cities. My research combines experimental and multi-omic approaches with microbial ecology, physiology, and genetics to understand how fungal decomposition mechanisms shape microbial community assembly, fungal interactions with physiologically distinct bacteria, and carbon cycling in terrestrial environments.
